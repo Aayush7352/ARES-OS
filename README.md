@@ -1,6 +1,7 @@
 # ARES OS
 
 > A UNIX-inspired x86_64 operating system from scratch.
+> **ARES** = **A**dvanced **R**eliable **E**xtensible **S**ystem
 
 ![C](https://img.shields.io/badge/language-C-blue?style=flat-square)
 ![NASM](https://img.shields.io/badge/assembly-NASM-orange?style=flat-square)
