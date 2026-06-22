@@ -1,0 +1,39 @@
+#==============================================================================
+# ARES OS - Git Ignore
+#==============================================================================
+
+# Build artifacts
+build/
+*.o
+*.bin
+*.elf
+*.map
+*.img
+
+# Editor files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Debug logs
+*.log
+*.log.*
+
+# Documentation build
+docs/_build/
+docs/_site/
+
+# Temp files
+/tmp/
+*.tmp
